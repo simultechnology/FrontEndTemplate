@@ -16,7 +16,9 @@
     "extends": "stylelint-config-standard"
   },
   "standard": {
-    "env": [ "jest" ]
+    "env": [
+      "jest"
+    ]
   },
   "browserslist": [
     "last 2 Chrome versions",
